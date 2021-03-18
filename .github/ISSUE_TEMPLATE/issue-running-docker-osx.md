@@ -1,6 +1,7 @@
 ---
-name: Issue Template
-about: A template for issues.
+name: Issue Running Docker-OSX
+about: OS related issued, please help us identify the issue by posting the output
+  of this
 title: ''
 labels: ''
 assignees: ''
